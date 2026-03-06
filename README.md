@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sphinx111SP
+- 👋 Hi, I’m @NhialChot
 - 👀 I’m interested in ...coding ,reading ,all things knowledge.
 - 🌱 I’m currently learning ...html and css
 - 💞️ I’m looking to collaborate on ...building websites
