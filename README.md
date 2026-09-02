@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @NhialChot
 - 👀 I’m interested in ...coding ,reading ,all things knowledge.
-- 🌱 I’m currently learning ...html and css
+- 🌱 I’m currently doing electrical engineering
+  
 - 💞️ I’m looking to collaborate on ...building websites
 - 📫 How to reach me ...email me emmanuelnhialmajak@gmail.com
 - 😄 Pronouns: ...he/him
